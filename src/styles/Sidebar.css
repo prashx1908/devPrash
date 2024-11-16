@@ -1,0 +1,115 @@
+/* src/styles/Sidebar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 16, 0.8); /* Semi-transparent background with #000001 color */
+    backdrop-filter: blur(10px); /* Glass effect */
+    -webkit-backdrop-filter: blur(10px); /* Safari support */
+    padding: 1rem 2rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+    font-size: 1.2rem; /* Increase font size */
+    box-sizing: border-box;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .logo {
+    font-size: 2rem; /* Increase logo size */
+    font-weight: bold;
+    color: #000001;
+  
+    text-decoration: none; /* Remove underline */
+    box-shadow: none; /* Remove any shadow */
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 2rem; /* Increase gap between links */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    display: inline;
+  }
+  
+  .nav-links a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s, color 0.3s;
+    border-radius: 5px;
+  }
+  
+  .nav-links a:hover {
+    color: #ffcc00;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .cv-link {
+    margin-left: auto; /* Pushes the CV link to the far right */
+  }
+  
+  .hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+  }
+  
+  .bar {
+    height: 3px;
+    width: 25px;
+    background-color: #ffffff;
+    margin: 4px 0;
+    transition: 0.4s;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem;
+    }
+  
+    .nav-links {
+      flex-direction: column;
+      width: 100%;
+      gap: 1rem;
+      display: none;
+    }
+  
+    .nav-links.open {
+      display: flex;
+    }
+  
+    .nav-links li {
+      width: 100%;
+    }
+  
+    .nav-links a {
+      width: 100%;
+      text-align: center;
+      padding: 1rem;
+    }
+  
+    .cv-link {
+      margin-left: 0;
+    }
+  
+    .hamburger {
+      display: flex;
+      position: absolute;
+      right: 1rem;
+      top: 1rem;
+    }
+  }
