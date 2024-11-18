@@ -390,14 +390,9 @@ footer {
     box-sizing: border-box;/* Adjust padding */
   }
 
-  .profile-picture {
-    max-width: 80%;
-    margin-bottom: 1rem;
-  }
-  .profile-picture1 {
-    max-width: 100%;
-    margin-bottom: 1rem;
-  }
+  .profile-picture,
+.profile-picture1 {
+  display: none;}
 
   .header h1 {
     font-size: 2rem;
