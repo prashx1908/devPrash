@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/devPrash/static/css/main.b4a874e5.css",
+    "main.js": "/devPrash/static/js/main.2f30577c.js",
+    "static/media/ok.jpg": "/devPrash/static/media/ok.c4345d3d7bd53bbc07d8.jpg",
+    "static/media/image3.png": "/devPrash/static/media/image3.5a10309a991f3837ad77.png",
+    "static/media/image2.png": "/devPrash/static/media/image2.6a566ae5bfdf7bb1bbf8.png",
+    "static/media/image4.png": "/devPrash/static/media/image4.ae194d51e610a3bf2f27.png",
+    "static/media/image1.png": "/devPrash/static/media/image1.c8c8436405894bf4cd84.png",
+    "static/media/JOP.jpeg": "/devPrash/static/media/JOP.dae26f3253201b34a131.jpeg",
+    "static/media/Prashanth_CV.pdf": "/devPrash/static/media/Prashanth_CV.7a05126ddefe3884a7f1.pdf",
+    "static/media/dsc.jpeg": "/devPrash/static/media/dsc.252dc3904e0b0cf0dd8f.jpeg",
+    "index.html": "/devPrash/index.html",
+    "main.b4a874e5.css.map": "/devPrash/static/css/main.b4a874e5.css.map",
+    "main.2f30577c.js.map": "/devPrash/static/js/main.2f30577c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a874e5.css",
+    "static/js/main.2f30577c.js"
+  ]
+}
