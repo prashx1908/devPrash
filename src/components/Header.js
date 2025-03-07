@@ -242,7 +242,7 @@ part of a productive team.</p>
         <div className="contact-info">
           <div className="contact-item">
             <span className="contact-icon">📧</span>
-            <a href="mailto:prashanth@example.com">prashanth.dev1908@gmail.com</a>
+            <a href="mailto:prashanth.dev1908@gmail.com">prashanth.dev1908@gmail.com</a>
           </div>
          
        
