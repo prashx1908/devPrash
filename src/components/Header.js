@@ -256,6 +256,7 @@ part of a productive team.</p>
             </div>
           </div>
 
+<<<<<<< HEAD
           {/* Project Card 2 */}
           <div className="project-card">
             <img src={projectImage2} alt="FinLit: Financial Literacy Platform" className="project-image" />
@@ -269,6 +270,19 @@ part of a productive team.</p>
                 <a href="https://github.com/prashx1908/FinLit_Entropy" target="_blank" rel="noopener noreferrer">GitHub Link</a>
               </div>
             </div>
+=======
+        <section id="contact">
+      <div className="contact-container">
+        <h2>Connect With Me!</h2>
+        <p>
+          Feel free to reach out to me if you're looking for a
+          developer, have a query, or simply want to connect.
+        </p>
+        <div className="contact-info">
+          <div className="contact-item">
+            <span className="contact-icon">📧</span>
+            <a href="mailto:prashanth.dev1908@gmail.com">prashanth.dev1908@gmail.com</a>
+>>>>>>> b66a77d11a7396b143af9b0a9b27daeee93d1d9c
           </div>
 
           {/* Project Card 3 */}

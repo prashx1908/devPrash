@@ -1124,11 +1124,17 @@ img, video {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   }
 
+<<<<<<< HEAD
   .about-me-section,
   .experience-section,
   .hackathons-section {
     margin: 3rem 1rem;
   }
+=======
+  .profile-picture,
+.profile-picture1 {
+  display: none;
+>>>>>>> b66a77d11a7396b143af9b0a9b27daeee93d1d9c
 }
 
 /* ---------------------------------- */
@@ -1351,6 +1357,7 @@ img, video {
   .profile-picture1 {
     max-width: 160px;
   }
+<<<<<<< HEAD
 
   .projects-grid,
   .certifications-grid,
@@ -1437,3 +1444,6 @@ a:focus, button:focus {
   white-space: nowrap;
   border-width: 0;
 }
+=======
+}
+>>>>>>> b66a77d11a7396b143af9b0a9b27daeee93d1d9c
