@@ -1,0 +1,26 @@
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000010; /* Set the background color */
+  color: #ffffff; /* Set the default text color to white for better contrast */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #000010; /* Ensure the App component also has the background color */
+}
+body, html {
+  overflow-x: hidden; /* Prevent horizontal scrolling for the entire page */
+}
