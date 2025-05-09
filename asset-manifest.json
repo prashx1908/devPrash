@@ -1,21 +1,44 @@
 {
   "files": {
-    "main.css": "/devPrash/static/css/main.033bd5c3.css",
-    "main.js": "/devPrash/static/js/main.dda07103.js",
+    "main.css": "/devPrash/static/css/main.623a9f88.css",
+    "main.js": "/devPrash/static/js/main.00b0863d.js",
     "static/media/ok.jpg": "/devPrash/static/media/ok.c4345d3d7bd53bbc07d8.jpg",
+    "static/media/cert1.jpg": "/devPrash/static/media/cert1.b64076240c74eeef615c.jpg",
+    "static/media/hackathon1.jpg": "/devPrash/static/media/hackathon1.787fffc04f86ff8929f4.jpg",
+    "static/media/cert13.jpg": "/devPrash/static/media/cert13.f46754a530188b26ef87.jpg",
     "static/media/image3.png": "/devPrash/static/media/image3.5a10309a991f3837ad77.png",
     "static/media/image2.png": "/devPrash/static/media/image2.6a566ae5bfdf7bb1bbf8.png",
+    "static/media/cert7.jpg": "/devPrash/static/media/cert7.f0972dcf1ae1a56b8333.jpg",
+    "static/media/cert9.jpg": "/devPrash/static/media/cert9.f56f3222bd4e17b588fb.jpg",
+    "static/media/cert12.jpg": "/devPrash/static/media/cert12.b35cfc17fc667f0d4cc8.jpg",
+    "static/media/hackathon6.jpg": "/devPrash/static/media/hackathon6.332dbccd21dda32c2ac6.jpg",
+    "static/media/cert8.jpg": "/devPrash/static/media/cert8.db952cc2a0413e475de8.jpg",
+    "static/media/image7.png": "/devPrash/static/media/image7.759dab320f677f231ea6.png",
+    "static/media/hackathon2.jpg": "/devPrash/static/media/hackathon2.9eaca230b62e581f1d17.jpg",
+    "static/media/cert5.jpg": "/devPrash/static/media/cert5.b23c750ddd51763dba84.jpg",
+    "static/media/cert3.jpg": "/devPrash/static/media/cert3.4931bd4425c56b8823b4.jpg",
     "static/media/image4.png": "/devPrash/static/media/image4.ae194d51e610a3bf2f27.png",
+    "static/media/cert6.jpg": "/devPrash/static/media/cert6.2cb86450120abcea6f5e.jpg",
     "static/media/image1.png": "/devPrash/static/media/image1.c8c8436405894bf4cd84.png",
+    "static/media/hackathon3.jpg": "/devPrash/static/media/hackathon3.912be52224d38b6bafef.jpg",
+    "static/media/cert14.jpg": "/devPrash/static/media/cert14.c30f5a985594198f8900.jpg",
+    "static/media/cert10.jpg": "/devPrash/static/media/cert10.4add00f714eb4516b124.jpg",
+    "static/media/image6.jpg": "/devPrash/static/media/image6.25e861c2af03f3dbc1e8.jpg",
+    "static/media/hackathon5.jpg": "/devPrash/static/media/hackathon5.304f243eaf02fbb8fb32.jpg",
+    "static/media/cert4.jpg": "/devPrash/static/media/cert4.6e3d4a6d19623499987a.jpg",
     "static/media/JOP.jpeg": "/devPrash/static/media/JOP.dae26f3253201b34a131.jpeg",
+    "static/media/image5.png": "/devPrash/static/media/image5.5503402d016cf585a3ea.png",
+    "static/media/hackathon4.jpg": "/devPrash/static/media/hackathon4.049a3a70c6f02c528939.jpg",
+    "static/media/cert2.jpg": "/devPrash/static/media/cert2.13650027e30283c94cd9.jpg",
+    "static/media/cert11.png": "/devPrash/static/media/cert11.9190fbb89f91dcf0b532.png",
     "static/media/Prashanth_CV.pdf": "/devPrash/static/media/Prashanth_CV.7a05126ddefe3884a7f1.pdf",
     "static/media/dsc.jpeg": "/devPrash/static/media/dsc.252dc3904e0b0cf0dd8f.jpeg",
     "index.html": "/devPrash/index.html",
-    "main.033bd5c3.css.map": "/devPrash/static/css/main.033bd5c3.css.map",
-    "main.dda07103.js.map": "/devPrash/static/js/main.dda07103.js.map"
+    "main.623a9f88.css.map": "/devPrash/static/css/main.623a9f88.css.map",
+    "main.00b0863d.js.map": "/devPrash/static/js/main.00b0863d.js.map"
   },
   "entrypoints": [
-    "static/css/main.033bd5c3.css",
-    "static/js/main.dda07103.js"
+    "static/css/main.623a9f88.css",
+    "static/js/main.00b0863d.js"
   ]
 }
